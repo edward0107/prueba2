@@ -12,7 +12,8 @@ public Empleado(String puesto){
 
     public String getPuesto() {
 
-system.out.printtl("Eedward gay");
+system.out.println("Eedward gay");
+system.out.println("Jose y Brandon se aman");
         return puesto;
     }
 
