@@ -11,6 +11,8 @@ public Empleado(String puesto){
 }
 
     public String getPuesto() {
+
+system.out.printtl("Eedward gay");
         return puesto;
     }
 
